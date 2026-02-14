@@ -5,12 +5,7 @@ import Image from "next/image"
 import { ChevronLeft, ChevronRight } from "lucide-react"
 
 const slides = [
-  {
-    image: "/images/hero-1.jpg",
-    heading: "Royal Taste of North India",
-    subtext: "Authentic handcrafted sweets made with pure desi ghee",
-    showOverlay: true,
-  },
+
   {
     image: "/images/b1.jpg",
     heading: "Our Bestselling Sweets & Savouries",
